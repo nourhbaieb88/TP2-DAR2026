@@ -1,6 +1,6 @@
 # TP2 – Calculatrice client/serveur
 
-**Étudiant(e)** : à compléter  
+**Étudiant(e)** : Nour Hbaieb  
 **Classe** : LSI3  1TP1
 **Matière** : Développement d'applications réparties
 
